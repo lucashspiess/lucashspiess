@@ -19,5 +19,5 @@
 
 <div style="display: inline_block"></br>
     <a href="https://www.linkedin.com/in/lucas-henrique-spies-832b42274/"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="40"/></a>
-    <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGKnGfkspmrRnBZkwXlJSjpqdhVTkdBTRTcmBczwZLVcthDkcRJQHjBgRMRpNwrHBLLJsnD"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40"/></a>
+    <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfsdFsTvBXFNxFdVnJPQnbLRVTwVHTWcZxxhbLBpvNbdFBbtdRLmXmMBTfzbqTpGZKjrHg"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40"/></a>
 </div>
