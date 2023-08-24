@@ -1,7 +1,7 @@
 ### Sou o Lucas Spies, discente do curso Sistemas de Informação na Universidade Estadual de Goiás.
 <p><a href="https://www.ueg.br/iact/si/campuscentral/"><img src= https://cdn.ueg.edu.br//cms_visualizador/interface/modulos//portal//geral//images/logo.png height="40"></a></p>
 
-![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashspiess&show_icons=true&theme=draccula&rank_icon=github)
+![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashspiess&show_icons=true&theme=dracula&rank_icon=github)
 
 ## Tecnologias que  uso:
 <div style="display: inline_block"></br>
