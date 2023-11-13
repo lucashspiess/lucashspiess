@@ -14,6 +14,7 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="40"/>
     <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40"/>
     <img align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="40"/>
+    <img align="center" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="40"/>
 </div></br>
 <hr>
 <h3>Entre em contato:</h3>
