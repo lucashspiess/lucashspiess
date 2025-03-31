@@ -1,4 +1,4 @@
-### Olá! Sou Lucas Spies, bacharel em Sistemas de Informação pela Universidade Estadual de Goiás e desenvolvedor de software..
+### Olá! Sou Lucas Spies, bacharel em Sistemas de Informação pela Universidade Estadual de Goiás e desenvolvedor de software.
 <p><a href="https://www.ueg.br/iact/si/campuscentral/"><img src= https://cdn.ueg.edu.br//cms_visualizador/interface/modulos//portal//geral//images/logo.png height="40"></a></p>
 <hr>
 
